@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="1" name="com.demo.main.LaunchExplorerTest" time="0.009" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="Way2AutomationTestSuite"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="JENKINS_HOME" value="C:\Program Files (x86)\Jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="439d6da8960bbf02"/>
+    <property name="POM_ARTIFACTID" value="www.way2automation.com"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Jenkins\jre\lib\resources.jar;C:\Program Files (x86)\Jenkins\jre\lib\rt.jar;C:\Program Files (x86)\Jenkins\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Jenkins\jre\lib\jsse.jar;C:\Program Files (x86)\Jenkins\jre\lib\jce.jar;C:\Program Files (x86)\Jenkins\jre\lib\charsets.jar;C:\Program Files (x86)\Jenkins\jre\lib\jfr.jar;C:\Program Files (x86)\Jenkins\jre\classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="apprentice"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\windows\TEMP"/>
+    <property name="java.runtime.version" value="1.8.0_20-b26"/>
+    <property name="user.name" value="L-SFM323B2SW$"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files (x86)"/>
+    <property name="user.language" value="en"/>
+    <property name="BUILD_DISPLAY_NAME" value="#3"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Jenkins\jre\bin"/>
+    <property name="LOCALAPPDATA" value="C:\windows\system32\config\systemprofile\AppData\Local"/>
+    <property name="java.version" value="1.8.0_20"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="USERNAME" value="L-SFM323B2SW$"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="PROCESSOR_ARCHITEW6432" value="AMD64"/>
+    <property name="PERL5LIB" value="C:\ORANT10G\perl\lib\5.6.1\MSWin32-x86;C:\ORANT10G\perl\lib\5.6.1;C:\ORANT10G\perl\5.6.1\lib\MSWin32-x86;C:\ORANT10G\perl\site\5.6.1;C:\ORANT10G\sysman\admin\scripts;C:\ORANT10G\perl\site\5.6.1\lib"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Jenkins\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="3"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="QTJAVA" value="C:\Program Files (x86)\Java\jre6\lib\ext\QTJava.zip"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files (x86)\Jenkins\jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="6.1"/>
+    <property name="LIB" value="C:\Program Files (x86)\IBM\WebSphere MQ_1\tools\lib64;C:\Program Files (x86)\IBM\WebSphere MQ_1\tools\lib"/>
+    <property name="INCLUDE" value="C:\Program Files (x86)\IBM\WebSphere MQ_1\tools\c\include;C:\Program Files (x86)\IBM\WebSphere MQ_1\tools\cplus\include"/>
+    <property name="POM_VERSION" value="0.0.1"/>
+    <property name="TMP" value="C:\windows\TEMP"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.20-b23"/>
+    <property name="AMDAPPSDKROOT" value="C:\Program Files (x86)\AMD APP\"/>
+    <property name="user.variant" value=""/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files (x86)\Common Files"/>
+    <property name="ComSpec" value="C:\windows\system32\cmd.exe"/>
+    <property name="MQ_JAVA_INSTALL_PATH" value="C:\Program Files (x86)\IBM\WebSphere MQ_1\java"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="MQ_JRE_PATH" value="C:\Program Files (x86)\IBM\WebSphere MQ_1\java\jre"/>
+    <property name="SERVICE_ID" value="jenkins"/>
+    <property name="COMPUTERNAME" value="L-SFM323B2SW"/>
+    <property name="user.script" value=""/>
+    <property name="asl.log" value="Destination=file"/>
+    <property name="POM_GROUPID" value="com.qa.framework"/>
+    <property name="user.home" value="C:\windows\system32\config\systemprofile"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-Way2AutomationTestSuite-3"/>
+    <property name="JENKINS_SERVER_COOKIE" value="439d6da8960bbf02"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\windows\system32\config\systemprofile"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Jenkins\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Users\Sa7c3b4\Documents\Softwares\apache-maven-3.3.9/bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\ORANT10G\bin;C:\ORANT10G\jre\1.4.2\bin;C:\ORANT10G\jre\1.4.2\bin\client;C:\Program Files (x86)\Attachmate\EXTRA!\;C:\ORACLE11G\product\11.1.0\client_1\bin;C:\windows\SysWOW64\;C:\windows\SysWOW64\Wbem;C:\Program Files (x86)\IBM\WebSphere MQ_1\bin64;C:\Program Files (x86)\IBM\WebSphere MQ_1\bin;C:\Program Files (x86)\IBM\WebSphere MQ_1\tools\c\samples\bin;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files (x86)\Skype\Phone\;;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\windows\system32\config\systemprofile\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Users\Sa7c3b4\Documents\Softwares\apache-maven-3.3.9"/>
+    <property name="java.class.path" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-agent-1.5.jar;C:\Users\Sa7c3b4\Documents\Softwares\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar;C:\Users\Sa7c3b4\Documents\Softwares\apache-maven-3.3.9/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main C:\Users\Sa7c3b4\Documents\Softwares\apache-maven-3.3.9 C:\Program Files (x86)\Jenkins\war\WEB-INF\lib\remoting-2.52.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar 65071"/>
+    <property name="Path" value="C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\ORANT10G\bin;C:\ORANT10G\jre\1.4.2\bin;C:\ORANT10G\jre\1.4.2\bin\client;C:\Program Files (x86)\Attachmate\EXTRA!\;C:\ORACLE11G\product\11.1.0\client_1\bin;C:\windows\SysWOW64\;C:\windows\SysWOW64\Wbem;C:\Program Files (x86)\IBM\WebSphere MQ_1\bin64;C:\Program Files (x86)\IBM\WebSphere MQ_1\bin;C:\Program Files (x86)\IBM\WebSphere MQ_1\tools\c\samples\bin;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files (x86)\Skype\Phone\;"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\Users\Sa7c3b4\Documents\Softwares\apache-maven-3.3.9"/>
+    <property name="Subver" value="300"/>
+    <property name="java.io.tmpdir" value="C:\windows\TEMP\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Program Files (x86)\Jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Users\Sa7c3b4\Documents\Softwares\apache-maven-3.3.9/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/Way2AutomationTestSuite/3/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="x86"/>
+    <property name="SystemRoot" value="C:\windows"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Jenkins\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="C:\Users\Sa7c3b4\workspace\www.way2automation.com"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/Way2AutomationTestSuite/"/>
+    <property name="MQ_JAVA_DATA_PATH" value="C:\Program Files (x86)\IBM\WebSphere MQ"/>
+    <property name="USERDOMAIN" value="AMERICAS"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="C:\Users\Sa7c3b4\Documents\Softwares\apache-maven-3.3.9"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="Buildver" value="GAP_WIN7.00"/>
+    <property name="BUILD_NUMBER" value="3"/>
+    <property name="BASE" value="C:\Program Files (x86)\Jenkins"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="PROCESSOR_REVISION" value="3a09"/>
+    <property name="UATDATA" value="C:\windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\windows"/>
+    <property name="MQ_FILE_PATH" value="C:\Program Files (x86)\IBM\WebSphere MQ_1"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar"/>
+    <property name="WORKSPACE" value="C:\Program Files (x86)\Jenkins\jobs\Way2AutomationTestSuite\workspace"/>
+    <property name="maven3.interceptor.common" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar"/>
+    <property name="WINSW_EXECUTABLE" value="C:\Program Files (x86)\Jenkins\jenkins.exe"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\windows\system32\WindowsPowerShell\v1.0\Modules\"/>
+  </properties>
+  <testcase classname="com.demo.main.LaunchExplorerTest" name="appTest" time="0.007"/>
+  <testcase classname="com.demo.main.LaunchExplorerTest" name="appTest2" time="0.002">
+    <failure message="Test not implemented" type="java.lang.RuntimeException">java.lang.RuntimeException: Test not implemented
+	at com.demo.main.LaunchExplorerTest.appTest2(LaunchExplorerTest.java:14)
+</failure>
+  </testcase>
+</testsuite>
